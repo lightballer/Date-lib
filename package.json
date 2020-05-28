@@ -1,0 +1,22 @@
+{
+  "name": "date-lib",
+  "version": "1.0.0",
+  "description": "Library for simply work with dates",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightballer/date-lib.git"
+  },
+  "author": "Artem Bokii (https://github.com/lightballer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightballer/date-lib/issues"
+  },
+  "homepage": "https://github.com/lightballer/date-lib#readme",
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  }
+}
