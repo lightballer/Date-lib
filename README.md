@@ -11,7 +11,7 @@ date.format('MM.DD.YYYY, h:mm:ss'); // return current date '5.6.2020, 02:37:40'
 ```
 Count days from some day to today:
 ```
-date.fromNow([2016, 6, 2]); // 1581
+date.fromNow('2016-6-2); // 1581
 ```
 Convert date from one format to another:
 ```
