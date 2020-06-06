@@ -7,8 +7,8 @@ const fromNowTest = require('./from-now.test');
 console.log('\nCONVERTER');
 converterTest();
 
-console.log('\nFORMAT');
-formatTest();
-
 console.log('\nFROM NOW');
 fromNowTest();
+
+console.log('\nFORMAT');
+formatTest();
