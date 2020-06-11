@@ -20,5 +20,10 @@ const Converter = date.Converter;
 const converter = new Converter(day);
 converter.from('DD-MM-YYYY').to('MM/DD/YYYY'); // return '04/12/2020'
 ```
+Compare any date with current date (can return true or false):
+```
+isBefore('2001/08/19'); // return true
+isAfter('2025:4:3'); // return true
+```
 ## Contributing
 To contribute in my project you should fork it to your account, make changes and send a pull request where you need to describe what changes you make and why it’s important. Feel free to contact me and discuss your contributing.
